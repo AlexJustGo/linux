@@ -1,5 +1,11 @@
 ############ Forked by adam.liu for raspberry pi test ############ 
 
+Tool dependency(sudo apt-get install xxx):(work in Ubuntu)
+    a) gcc-arm-linux-gnueabihf
+    b) bison
+    c) flex
+    d) libssl-dev
+    
 Quick scripts:
     a) compile the whole kernel: make.sh
     b) compile core kernel with simple way: make_normal.sh
